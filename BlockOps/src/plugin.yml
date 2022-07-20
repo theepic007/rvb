@@ -1,0 +1,7 @@
+main: me.bbblocks.blockops.Main
+name: BlockOps
+version: 1.0.0
+description: Class tdm
+api-version: 1.16
+commands:
+  
